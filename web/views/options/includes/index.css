@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    transition:200ms;
+    font-family: 'Noto Sans';
+}
+body{
+    background-color:rgb(245,245,245);
+}
+header{
+    padding:30px;
+}
+header a{
+    padding:10px;
+    text-decoration:none;
+    color:white;
+    background-color:#E79C07;
+    border-radius:4px;
+}
+header a:hover{
+    color:black;
+    background-color:#01F1B2;
+}
+
